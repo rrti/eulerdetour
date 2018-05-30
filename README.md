@@ -1,2 +1,2 @@
 # eulerdetour
- Project Euler solutions
+
